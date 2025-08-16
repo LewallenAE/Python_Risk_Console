@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05KeywordsAndExpressions/05KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/05KeywordsAndExpressions/05KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Conditional_Logic_Loops_And_Interactive_Java_Apps/06Conditional_Logic_Loops_And_Interactive_Java_Apps.iml" filepath="$PROJECT_DIR$/06Conditional_Logic_Loops_And_Interactive_Java_Apps/06Conditional_Logic_Loops_And_Interactive_Java_Apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07MasteringJavaOOPClassesAndInheritance/07MasteringJavaOOPClassesAndInheritance.iml" filepath="$PROJECT_DIR$/07MasteringJavaOOPClassesAndInheritance/07MasteringJavaOOPClassesAndInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMasterClass.iml" filepath="$PROJECT_DIR$/JavaMasterClass.iml" />
+    </modules>
+  </component>
+</project>
